@@ -21,7 +21,7 @@ class Calculator :
     def save_history(self):
         with open(HISTORY_FILE,"w") as f:
             for items in self.history:
-                f.write(items+"n")
+                f.write(items+"\n")
         
     def get_Numbers(self,message):
         while True:
