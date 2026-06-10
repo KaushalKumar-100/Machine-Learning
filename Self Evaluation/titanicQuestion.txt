@@ -1,0 +1,58 @@
+Assignment - Section 5 - Core Data Libraries ion Python
+Titanic Dataset Exploration (Self Evaluation)
+
+Objective:
+
+Practice core data analysis skills using NumPy, Pandas, Matplotlib, and Seaborn by exploring a simple real-world dataset.
+
+What you will build:
+
+A basic exploratory data analysis workflow on the Titanic dataset to understand the data and extract simple insights.
+
+Dataset:
+
+You will work with the Titanic dataset provided here:
+
+What to do:
+
+Load the dataset and explore it step by step.
+
+Load the Titanic dataset using Pandas
+
+Inspect the shape, columns, and basic information
+
+Check for missing values and handle them appropriately
+
+Find how many passengers survived and did not survive
+
+Analyze survival based on gender
+
+Analyze survival based on passenger class
+
+Find the average age and average fare
+
+Create simple visualizations to support your findings
+
+Rules:
+
+Use NumPy, Pandas, Matplotlib, and Seaborn only
+
+Do not train any machine learning models
+
+Keep the analysis simple and beginner friendly
+
+Focus on understanding the data, not optimization
+
+Bonus challenges (optional):
+
+Compare survival rates across age groups
+
+Visualize fare distribution for survivors vs non-survivors
+
+Create one additional insight of your choice
+
+Solution reference:
+
+After completing the exercise, you can compare your approach with the official solution here:
+
+assignment - section 5 - solution link
